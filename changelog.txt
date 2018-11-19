@@ -1,0 +1,10 @@
+table keeps sort
+search bar doesn't reset on data category switch
+fixed saving on non-windows os
+string parameters handle double quotes automatically
+display change for everything
+export data as text
+add variable support
+removed icon for now
+
+todo

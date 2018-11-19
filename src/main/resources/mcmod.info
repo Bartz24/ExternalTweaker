@@ -1,0 +1,16 @@
+[
+{
+  "modid": "externaltweaker",
+  "name": "External Tweaker",
+  "description": "Application for simple Minetweaker script creation, management, and editing!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bartz24"],
+  "credits": "modmuss50 and mezz for examples of ASM data stuff, Jared for maintenence of Minetweaker/Crafttweaker",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
